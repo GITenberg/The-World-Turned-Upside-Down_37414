@@ -1,0 +1,35 @@
+_repo: The-World-Turned-Upside-Down_37414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37414-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clayton, Ellen C. (Ellen Creathorne)
+    aliases:
+    - Clayton, E. C. (Ellen Creathorne)
+    - Clayton, Eleanor Creathorne
+    - Needham, Mrs. (Ellen Creathorne)
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '42343'
+    url: http://www.gutenberg.org/2009/agents/42343
+description: ''
+gutenberg_issued: '2011-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s stories'
+- !lcsh 'Wit and humor, Juvenile'
+tableOfContents: The foolish coat -- Alf and the parrot -- The clever hare -- The
+  strong man and the invalid -- The kite's little game -- The birds and the fishes
+  -- The wonderful show -- The unkind trees.
+title: The World Turned Upside Down
+url: http://www.gutenberg.org/ebooks/37414
